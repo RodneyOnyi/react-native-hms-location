@@ -1,6 +1,6 @@
 {
   "name": "react-native-hms-location",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "author": "",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.41.2",
+    "react-native": "^0.62.1",
     "react-native-windows": "0.41.0-rc.1"
   }
 }
